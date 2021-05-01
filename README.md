@@ -1,3 +1,10 @@
+You can:
+Signup in the application;
+Logon in the application;
+Add a product with a category;
+delete a product
+
+
 Technologies that I used to develop this api
 
 - [Node.js](https://nodejs.org/en/)
